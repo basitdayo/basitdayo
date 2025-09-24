@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+‎<img src="https://github-profile-trophy.vercel.app/?username=basitdayo" alt="basitdayo" /></a> </p>
 <!-- Profile Section -->
 <div style="font-family: Arial, sans-serif;">
 
