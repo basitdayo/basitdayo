@@ -4,12 +4,7 @@
   <h2>About Me</h2>
   <p>I'm currently learning <b>AI & Machine Learning</b></p>
 
-  <!-- Contact -->
-  <h3>Connect</h3>
-  <p><a href="mailto:basitdayo.work@gmail.com">basitdayo.work@gmail.com</a></p>
-
-  <!-- Languages & Tools -->
-  <h3>Languages and Tools</h3>
+  <h3>Languages</h3>
   <p align="left">
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -72,4 +67,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
     </a>
   </p>
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+‎<img src="https://github-profile-trophy.vercel.app/?username=basitdayo" alt="basitdayo" /></a> </p>
 </div>
