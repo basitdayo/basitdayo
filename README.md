@@ -1,15 +1,15 @@
 <!-- Profile Section -->
 <div style="font-family: Arial, sans-serif;">
 
-  <h2>👨‍💻 About Me</h2>
+  <h2>About Me</h2>
   <p>I'm currently learning <b>AI & Machine Learning</b></p>
 
   <!-- Contact -->
-  <h3>📬 Connect</h3>
+  <h3>Connect</h3>
   <p><a href="mailto:basitdayo.work@gmail.com">basitdayo.work@gmail.com</a></p>
 
   <!-- Languages & Tools -->
-  <h3>🛠️ Languages and Tools</h3>
+  <h3>Languages and Tools</h3>
   <p align="left">
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
