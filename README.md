@@ -1,8 +1,7 @@
 <!-- Profile Section -->
-<div style="font-family: Arial, sans-serif;">
 
   <h2>About Me</h2>
-  <p>I'm currently learning <b>AI & Machine Learning</b></p>
+  <p>I'm currently learning <b>AI & Machine Language</b></p>
 
   <h3>Languages</h3>
   <p align="left">
